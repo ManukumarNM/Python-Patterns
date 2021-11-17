@@ -10,6 +10,11 @@ One logic Many patterns
       * * * * *
 ```
 #Program:2
+* * * * * 
+* * * * 
+* * * 
+* * 
+* 
 #Program:3
 #Program:4
 #Program:5
